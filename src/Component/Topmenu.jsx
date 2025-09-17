@@ -1,5 +1,5 @@
 
-import logo from "../images/logo.webp";
+import logo from "../Images/logo.webp";
 import { useState } from "react";
 import Nav from 'react-bootstrap/Nav';
 import Button from 'react-bootstrap/Button';
