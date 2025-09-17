@@ -1,0 +1,238 @@
+{
+  "products": [
+    {
+      "id": "4c98",
+      "name": "girls kurtis",
+      "brand": "Biba",
+      "category": "Anarkali Kurta",
+      "price": "599",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1757618146/jlhf4hnctk62lvbh010y.jpg"
+    },
+    {
+      "id": "7dc3",
+      "name": "kurta",
+      "brand": "Fabindia",
+      "category": "Straight Kurta",
+      "price": "1199",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1757618303/ibzdkbfsoaex8z1futii.jpg"
+    },
+    {
+      "id": "be76",
+      "name": "suit",
+      "brand": "Global Desi Jaipur Kurit",
+      "category": "Anarkali Kurta",
+      "price": "4500",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1757654848/n5kc6ni60xt6ak2gaesw.jpg"
+    },
+    {
+      "id": "98ce",
+      "name": "Women Floral Print Pure Cotton Anarkali Kurta  (Multicolor)",
+      "brand": "Biba",
+      "category": "Anarkali Kurta",
+      "price": "566",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1757696683/kwo7ktbhat1fodelnuhb.webp"
+    },
+    {
+      "id": "a7c6",
+      "name": "Women Floral Print, Printed Viscose Rayon Anarkali Kurta With Attached Dupatta  (Maroon)",
+      "brand": "Global Desi Jaipur Kurit",
+      "category": "Anarkali Kurta",
+      "price": "999",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1757696856/gbvgcwwscam9nlwlzi2q.webp"
+    },
+    {
+      "id": "2770",
+      "name": "Women Chanderi Kurta Pant Attached Dupatta Set",
+      "brand": "Fabindia",
+      "category": "Kurta with Dupatta Set",
+      "price": "900",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1757696997/s2lmrehbcwwfmpszqdje.webp"
+    },
+    {
+      "id": "a098",
+      "name": "Women Silk Blend Kurta Pant Dupatta Set",
+      "brand": "Aurelia",
+      "category": "Kurta with Dupatta Set",
+      "price": "1099",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1757697148/uby12f4ropdy4suj2zol.webp"
+    },
+    {
+      "id": "fd93",
+      "name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+      "brand": "Libas",
+      "category": "Party Wear Lehenga",
+      "price": "2000",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1757697426/hoh2brrhs89dkuh9w8b0.webp"
+    },
+    {
+      "id": "753c",
+      "name": "Solid/Plain Bollywood Cotton Blend Saree  (Yellow)",
+      "brand": "Fabindia",
+      "category": "Cotton Saree",
+      "price": "2150",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1757697566/gl1d2shx4yzpxdnqhd7b.webp"
+    },
+    {
+      "id": "f127",
+      "name": "Embellished Daily Wear Art Silk Saree  (Black, Grey)",
+      "brand": "Aurelia",
+      "category": "Cotton Saree",
+      "price": "1500",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1757697723/juivgcqodx0jdv6pyubv.webp"
+    },
+    {
+      "id": "f945",
+      "name": "Women Cotton Blend Kurti Pant Dupatta Set",
+      "brand": "Global Desi Jaipur Kurit",
+      "category": "Palazzo Suit",
+      "price": "1256",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1757698000/rospxnprvxu5wbre1lyy.webp"
+    },
+    {
+      "id": "cb5c",
+      "name": "Women Silk Blend Kurta Pant Dupatta Set",
+      "brand": "Melange by Lifestyle",
+      "category": "Kurta with Dupatta Set",
+      "price": "1450",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1757698111/bd4ugvjfzyxo9j784cfr.webp"
+    },
+    {
+      "id": "a757",
+      "name": "kurta",
+      "brand": "Indya",
+      "category": "Straight Kurta",
+      "price": "789",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1758092298/khlin5wvwggwwy3rbtbq.jpg"
+    },
+    {
+      "id": "d81d",
+      "name": "kurta",
+      "brand": "Biba",
+      "category": "A-line Kurti",
+      "price": "689",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1758092360/fksnjk5s0viewdkwbos6.jpg"
+    },
+    {
+      "id": "15c2",
+      "name": "kurta",
+      "price": "987",
+      "brand": "Global Desi Jaipur Kurit",
+      "category": "A-line Kurti",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1758092804/mbuxnelt2ygtco1guixh.jpg"
+    },
+    {
+      "id": "d765",
+      "name": "kurti",
+      "brand": "Global Desi Jaipur Kurit",
+      "category": "High-low Kurti",
+      "price": "588",
+      "images": "http://res.cloudinary.com/dullcbflu/image/upload/v1758093779/k26ztnahgrvsvsdzx65p.jpg"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "adminname": "ADMIN",
+      "adminid": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "2",
+      "adminname": "Shivani pandey",
+      "adminid": "shivani@123gmail.com",
+      "password": "shivani123"
+    }
+  ],
+  "order": [
+    {
+      "id": "f6ab",
+      "name": "shivani pandey ",
+      "Number": "9009151876",
+      "Houseno": "house no. 45  area colony",
+      "Roadname": "trilanga road",
+      "pincode": "462039",
+      "city": "bhopal",
+      "state": "madhyapradesh"
+    },
+    {
+      "id": "fb67",
+      "name": "Abhishek pandey",
+      "Number": "7067848264",
+      "Houseno": "Shahpura House no. 234",
+      "Roadname": "near by Shaitan singh chouraha",
+      "pincode": "462026",
+      "city": "bhopal",
+      "state": "madhyapradesh"
+    },
+    {
+      "id": "e8ed",
+      "name": "Anika dewedi",
+      "Number": "7989583456",
+      "Houseno": "house no. 245 Janki apartment",
+      "Roadname": " area colony",
+      "pincode": "462048",
+      "city": "indore",
+      "state": "madhyapradesh"
+    },
+    {
+      "id": "bb72",
+      "name": "Ankita Thakur",
+      "Number": "8985944567",
+      "Houseno": "87",
+      "Roadname": "  e8  arera colony",
+      "pincode": "344589",
+      "city": "jabalpur",
+      "state": "madhyapradesh"
+    },
+    {
+      "id": "3a96",
+      "name": "chavvi sukla",
+      "Number": "9984954998",
+      "Houseno": "house no. 78",
+      "Roadname": "e4 arera colony",
+      "pincode": "456934",
+      "city": "indore",
+      "state": "madhyapradesh"
+    },
+    {
+      "id": "accb",
+      "name": "chavvi sukla",
+      "Number": "9984954998",
+      "Houseno": "house no. 78",
+      "Roadname": "e4 arera colony",
+      "city": "indore",
+      "state": "madhyapradesh",
+      "pincode": "878789"
+    },
+    {
+      "id": "4277",
+      "name": "chavvi sukla",
+      "Number": "9984954998",
+      "Houseno": "house no. 78",
+      "Roadname": "e4 arera colony",
+      "city": "indore",
+      "state": "madhyapradesh",
+      "pincode": "876765"
+    },
+    {
+      "id": "ab4a",
+      "name": "chavvi sukla",
+      "Number": "9984954998",
+      "Houseno": "house no. 78",
+      "Roadname": "e4 arera colony",
+      "pincode": "876765",
+      "city": "indore",
+      "state": "madhyapradesh"
+    },
+    {
+      "id": "579c",
+      "name": "",
+      "Number": "7890233458",
+      "Houseno": "house no. 789",
+      "Roadname": "e6 arera colony",
+      "pincode": "456078",
+      "city": "bhopal",
+      "state": "madhyapradesh"
+    }
+  ]
+}
